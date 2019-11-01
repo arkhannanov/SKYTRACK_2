@@ -1,0 +1,11 @@
+.article {
+  margin-top: 2rem;
+  &__content {
+    display: block;
+
+    &_is-hidden {
+      display: none;
+    }
+  }
+
+}
